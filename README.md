@@ -39,9 +39,7 @@ Function calls with arguments
 ✅ Intermediate TAC output
 
 Example Code (MiniLang++)
-c
-Copy
-Edit
+
 int max(int a, int b) {
   if (a > b) {
     return a;
