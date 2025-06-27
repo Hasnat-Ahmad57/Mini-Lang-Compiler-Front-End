@@ -1,0 +1,11 @@
+# Core logic helper
+tabulate
+
+# Debugging & Pretty CLI
+colorama
+
+# Optional parser tools (if using)
+ply
+
+# Testing (optional)
+pytest
